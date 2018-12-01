@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ad52f174d86bffcd271e0e3542cde9ab6f1a606f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-ec98e9ff1faa03f6111e4473c2067da77a027277.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-00f3806e56c385a0f440d122e485ba1ac3920ef8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-03fcd9a9c4594cc0c111df4cf25547270857fcbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        revision="24.0.2"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\commons-lang3-3.4-d4b1369b739dcc6afbdaf37ebd07697286dd83b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-5c1577154e41dcdd6c0e56316deaeb3733641ac1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-85ffd54f012b6700bb6f66d9e1d963410ec60fb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-93e1fa535e506162e14ca9d18e5a86860af494d6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\appdata\local\android\sdk\platforms\android-24\android.jar"
+        revision="24.0.2"
+        sha1="d49cc0972df7adf495d3ad3d0cf71c0ec517ace4">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-9ccafb70789ce75d0b00c10e960f69d3858e1d58.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\appdata\local\android\sdk\platforms\android-24\optional\org.apache.http.legacy.jar"
+        revision="24.0.2"
+        sha1="fb7023e781abb70ed1b0442eb611fbed295cae84">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-3c811feefa44a18b5ee6bca434ed1ab088c7ba03.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-e457ed50f09f9bf6cf833c41c5cb7a57bb37b88c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b6fcddb8e8bc4e9f02b7ba3ed233ccad62f803d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-24.2.1-1ee57715bebf51525f4c9275e95eb5f44552e178.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c0146723af3309c02ca27078685c9b558e503cc7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-78a0d211fdb68540356666dcbc9e139e0c17d12d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\19.0\6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9\guava-19.0.jar"
+        revision="24.0.2"
+        sha1="6ce200f6b23222af3d8abb6b6459e6c44f4bb0e9">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\guava-19.0-b11230f32e9c1bc789392eebecbc69ed82b66beb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\internal_impl-24.2.1-82b47e833fd87fdacc10b059ae72af1ca370be3b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-ab50509434de8397186c16272012cc6f812dac62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Kri\Desktop\School\Operating Systems 3313\Android\se3313-lab2\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-823faaf92cb272d3be636488cfe6e8d4bc2df6ef.jar" />
+    </item>
+
+</items>

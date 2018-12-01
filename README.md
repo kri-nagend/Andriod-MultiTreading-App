@@ -1,2 +1,4 @@
-# Andriod-MultiTreading-App
-An Android app that displays a slideshow of images loaded from the internet using multi-treading, and with a fallback stock image in case of a connection error
+# SE3313 2016 Lab 2 Solution
+
+The following code is the solution for SE3313 - Lab 2. The provided code/assignment is provided in uwoece-km/se3313-lab2.
+
